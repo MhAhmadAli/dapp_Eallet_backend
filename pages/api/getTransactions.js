@@ -12,7 +12,7 @@ startModules();
 
 
 export default async function getTransactions(req, res) {
-  const {address} = req.body;
+  const { address } = req.body;
 
   const chain = EvmChain.SEPOLIA;
 
