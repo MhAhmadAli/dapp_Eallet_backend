@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@moralisweb3/common-evm-utils": "^2.22.1",
-    "eslint": "8.42.0",
+    "eslint": "^9.24.0",
     "eslint-config-next": "13.4.4",
     "ethers": "^5.7.2",
     "mongoose": "^7.4.3",
